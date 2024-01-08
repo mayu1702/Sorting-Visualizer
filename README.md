@@ -5,3 +5,7 @@ A sorting visualizer is a powerful tool that aids users in comprehending the fun
    -  Users can manually input a list of items or generate a random set to be sorted. -
    -   **Algorithm Selection:**
    -    Users have the ability to select their preferred sorting algorithm (such as Bubble Sort, Quick Sort, Merge Sort, etc.) to visualize.
+
+# Link
+https://mayu1702.github.io/Sorting-Visualizer/
+   
